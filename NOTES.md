@@ -17,5 +17,5 @@
 - submission_id：01a20b2e-6c3d-7718-a931-b1ce5d4fd953；收件 2026-11-24T01:32:01Z；stage=submitted（排队评分中，首轮询 intake 5 项已 pass：account_wallet/competition_open/quota/form/entry_signature）；claim code AF-VX4V2-T28A8-T4X79-QZG9N（仅记录，不代领）
 - 本地 check：14 pass / 0 fail / 5 skip（thinking_reproduces 95.4%，thinking_revised 2 条，thinking_priced 1 行）
 - 拒过一次：首次提交 422 repo_about（About 缺 makefun topic，不占配额）→ 按 fix 设 description/homepage/topics 后重交成功。教训：建仓时即把 About 一次设全（本轮任务 2/3 已照此做）。
-- 服务器分数：盲轮，名次须等第 1 轮截止（2026-11-24 20:50 CST）后查 /rounds
+- 服务器轮询：2026-11-24 09:46 CST（01:46Z）stage=scored，服务器 29 项检查 27 pass / 0 fail / 2 skip（skip 为 thinking_on_task、thinking_fresh，均系无任务词/无 beacon 的良性跳过）。dev 阶段已评分；盲轮分数/名次须等第 1 轮截止（2026-11-24 20:50 CST）后查 /rounds。
 - 配额：本任务 max_per_day 5（UTC 日）；当日余 5/5，can_submit=true（2026-11-24 09:2x CST 查）。
